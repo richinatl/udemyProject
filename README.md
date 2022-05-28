@@ -48,3 +48,6 @@ Have questions about this project?
  Email: richinatl@gmail.com
 
 ## Credits
+Richard Murphy
+
+
